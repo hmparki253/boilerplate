@@ -1,0 +1,4 @@
+### 논블로킹
+GET http://127.0.0.1:8000/non-blocking HTTP/1.1
+### 블로킹
+GET http://127.0.0.1:8000/blocking HTTP/1.1
