@@ -136,6 +136,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# boilerplate envs
+boilerplate/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -173,3 +176,5 @@ cython_debug/
 # 결과물 txt
 result.txt
 heavy_data_result.txt
+
+# logs/
